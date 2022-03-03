@@ -1,4 +1,4 @@
-[**Churn Modelling for a Bank using Logistic Regression	(December 2021)**](https://github.com/BearsOnMars/Deep_Learning/blob/main/ANN/Classification/ANN_for_Classification.ipynb)
+[**Churn Modelling for a Bank using Logistic Regression	(November 2021)**](https://github.com/BearsOnMars/Deep_Learning/blob/main/ANN/Classification/ANN_for_Classification.ipynb)
 
 
  **Situation:**
